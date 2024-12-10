@@ -1,3 +1,4 @@
+index.php
 Project Name: Web based cloud detection system
 ---------------------------------------------------------
 
